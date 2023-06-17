@@ -1,0 +1,2 @@
+# Health Infomatics Data Explotation
+ Given a csv containing data from Covidence extraction relating to digital twins i extracted meaning from the data and identify correlations between authors and other authors, authors and institutions. i constructed different visualisations to illustrate these relationships, such as a social network graph to visualise authors and a tree graph to visualise institutions.
